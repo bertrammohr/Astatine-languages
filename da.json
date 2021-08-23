@@ -38,7 +38,8 @@
         "language": "Sprog",
         "languages": {
             "en": "Engelsk",
-            "da": "Dansk"
+            "da": "Dansk",
+            "no": "Norsk"
         },
         "disableLogs": "Deaktiver logs",
         "logChannel": "Log kanal",
@@ -77,14 +78,14 @@
         "tos": "Alle indsendte beviser og oplysninger er ægte og ikke redigeret på nogen måde.",
         "sendReport": "Send rapport",
         "reportSent": "Din rapport er sendt! Tak.",
-        "newReport": "Nyt rapport"
+        "newReport": "Ny rapport"
     },
 
     "reports": {
         "title": "Astatine - Admin Dashboard",
         "sentBy": "Rapport sendt af:",
         "confirm": "Bekræft rapport",
-        "deny": "Afvist rapport",
+        "deny": "Afvis rapport",
         "noReports": "Der er ikke nogle rapporter"
     }
 }
