@@ -43,7 +43,7 @@
 	        "languages": {
 	            "en": "Engelsk",
 	            "da": "Dansk",
-              "no": "Norsk"
+		    "no": "Norsk"
 	        },
 	        "disableLogs": "Deaktiver logger",
 	        "logChannel": "Logg kanal",
