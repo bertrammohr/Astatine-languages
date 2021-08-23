@@ -1,0 +1,90 @@
+{
+    "header": {
+        "logout": "Logout",
+        "dashboard": "Dashboard",
+        "report": "Report",
+        "adminPanel": "Admin panel"
+    },
+
+    "footer": {
+        "currentlyUsing": "Currently used by {users} users on {guilds} discord servers"
+    },
+
+    "admin": {
+        "title": "Astatine - Admin Dashboard",
+        "dailyStats": "Daily stats",
+        "reports": "Reports",
+        "reportsWaiting": "reports waiting"
+    },
+
+    "dashboard": {
+        "title": "Astatine - Dashboard",
+        "manage": "Manage",
+        "addBot": "Add bot to guild"
+    },
+
+    "error": {
+        "title": "Astatine - Not Found",
+        "pageNotFound": "404 - Page Not Found",
+        "url": "The requested URL {url} was not found on this server.",
+        "homePage": "Home page"
+    },
+    
+    "guild": {
+        "title": "Astatine - {guildName}",
+        "memberCount": "Members: {memberCount}",
+        "settings": "Settings",
+        "blacklist": "Enable blacklist",
+        "language": "Language",
+        "languages": {
+            "en": "English",
+            "da": "Danish"
+        },
+        "disableLogs": "Disable logs",
+        "logChannel": "Log channel",
+        "save": "Save"
+    },
+
+    "index": {
+        "title": "Astatine",
+        "getStarted": "Get Started",
+        "main": {
+            "title": "A Simple Discord Global Ban",
+            "desc": "Use Astatine to keep out unwanted discord members. These include people sending token grabbers, ip grabbers and people doing things with malicious intents."
+        },
+        "secondary": {
+            "desc": "You can use our service completely for free. Choose an option below to start.",
+            "boxes": {
+                "discord": {
+                    "title": "Add to Discord",
+                    "desc": "For us to be able to ban unwanted users, we need a discord bot on your server. Press the button below, to invite our discord bot, to your server!",
+                    "btn": "Invite bot"
+                },
+                "dashboard": {
+                    "title": "Open Dashboard",
+                    "desc": "Open the dashboard, and have a look. You might find something interesting.",
+                    "btn": "Go to Dashboard"
+                }
+            }
+        }
+    },
+
+    "report": {
+        "title": "Astatine - Report User",
+        "reportUser": "Report user",
+        "userId": "User id",
+        "evidence": "Evidence",
+        "tos": "All submitted evidence and information is correct and not edited in any way.",
+        "sendReport": "Send report",
+        "reportSent": "Your report was sent! Thank you.",
+        "newReport": "New report"
+    },
+
+    "reports": {
+        "title": "Astatine - Admin Dashboard",
+        "sentBy": "Report sent by:",
+        "confirm": "Confirm report",
+        "deny": "Deny report",
+        "noReports": "There is currently no reports"
+    }
+}
