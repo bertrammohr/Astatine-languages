@@ -19,8 +19,8 @@
 
     "dashboard": {
         "title": "Astatine - Dashboard",
-        "manage": "Administrer ",
-        "addBot": "Add Astatine"
+        "manage": "Administrer",
+        "addBot": "Tilføj Astatine"
     },
 
     "error": {
@@ -50,10 +50,10 @@
         "getStarted": "Kom igang",
         "main": {
             "title": "Et simpelt discord global ban",
-            "desc": "Brug Astatine til at holde uønskede medlemmer ude. Dette inkluderer folk der sender token grabbers, ip grabbers og folk, der gør ting med onde hensigter."
+            "desc": "Brug Astatine til at holde uønskede Discord medlemmer ude. Dette inkluderer folk der sender token grabbers, ip grabbers og andre folk som gør ting med onde hensigter."
         },
         "secondary": {
-            "desc": "Du kan bruge botten helt gratis. Vælg en valgmulighed under, for at starte.",
+            "desc": "Du kan bruge botten helt gratis. Vælg en valgmulighed nedenunder, for at starte.",
             "boxes": {
                 "discord": {
                     "title": "Tilføj til Discord",
