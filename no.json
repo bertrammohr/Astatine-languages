@@ -8,7 +8,7 @@
 	
 
 	    "footer": {
-	        "currentlyUsing": "For tiden brukt av {users} brukere påse {guilds} discord servere"
+	        "currentlyUsing": "For tiden brukt av {users} brukere påse {guilds} Discord servere"
 	    },
 	
 
@@ -55,7 +55,7 @@
 	        "title": "Astatine",
 	        "getStarted": "Kom i gang",
 	        "main": {
-	            "title": "Et enkelt discord globalt forbud",
+	            "title": "Et enkelt Discord globalt forbud",
 	            "desc": "Bruk Astatine for å holde uønskede Discord medlemmer utenfor. Dette inkluderer personer som sender token grabbers, ip grabbers og andre mennesker som gjør ting med ondsinnet hensikt."
 	        },
 	        "secondary": {
