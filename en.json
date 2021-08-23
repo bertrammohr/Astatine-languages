@@ -14,7 +14,7 @@
         "title": "Astatine - Admin Dashboard",
         "dailyStats": "Daily stats",
         "reports": "Reports",
-        "reportsWaiting": "reports waiting"
+        "reportsWaiting": "Reports waiting"
     },
 
     "dashboard": {
@@ -50,7 +50,7 @@
         "getStarted": "Get Started",
         "main": {
             "title": "A Simple Discord Global Ban",
-            "desc": "Use Astatine to keep out unwanted discord members. These include people sending token grabbers, ip grabbers and people doing things with malicious intents."
+            "desc": "Use Astatine to keep out unwanted discord members. This include people sending token grabbers, ip grabbers and other people doing things with malicious intents."
         },
         "secondary": {
             "desc": "You can use our service completely for free. Choose an option below to start.",

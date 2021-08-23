@@ -1,0 +1,90 @@
+{
+    "header": {
+        "logout": "Log ud",
+        "dashboard": "Dashboard",
+        "report": "Rapporter",
+        "adminPanel": "Admin panel"
+    },
+
+    "footer": {
+        "currentlyUsing": "I øjeblikket brugt af {users} på {guilds} Discord servere"
+    },
+
+    "admin": {
+        "title": "Astatine - Admin Dashboard",
+        "dailyStats": "Daglig statistik",
+        "reports": "Rapporter",
+        "reportsWaiting": "Afventende rapporter"
+    },
+
+    "dashboard": {
+        "title": "Astatine - Dashboard",
+        "manage": "Administrer",
+        "addBot": "Tilføj Astatine"
+    },
+
+    "error": {
+        "title": "Astatine - Ikke fundet",
+        "pageNotFound": "404 - Siden blev ikke fundet",
+        "url": "Den anmodede webadresse {url} blev ikke fundet på denne server.",
+        "homePage": "Startside"
+    },
+    
+    "guild": {
+        "title": "Astatine - {guildName}",
+        "memberCount": "Medlemmer: {memberCount}",
+        "settings": "Indstillinger",
+        "blacklist": "Aktiver blacklist",
+        "language": "Sprog",
+        "languages": {
+            "en": "Engelsk",
+            "da": "Dansk"
+        },
+        "disableLogs": "Deaktiver logs",
+        "logChannel": "Log kanal",
+        "save": "Gem"
+    },
+
+    "index": {
+        "title": "Astatine",
+        "getStarted": "Kom igang",
+        "main": {
+            "title": "Et simpelt discord global ban",
+            "desc": "Brug Astatine til at holde uønskede Discord medlemmer ude. Dette inkluderer folk der sender token grabbers, ip grabbers og andre folk som gør ting med onde hensigter."
+        },
+        "secondary": {
+            "desc": "Du kan bruge botten helt gratis. Vælg en valgmulighed nedenunder, for at starte.",
+            "boxes": {
+                "discord": {
+                    "title": "Tilføj til Discord",
+                    "desc": "For at vi kan banne uønskede medlemmer, kræver det at du adder botten til din Discord server. Tryk på knappen under, for at tilføje botten, til din Discord server.",
+                    "btn": "Invite bot"
+                },
+                "dashboard": {
+                    "title": "Åben dashboard",
+                    "desc": "Åben dashboardet, og tag et kig. Du finder måske noget interessant",
+                    "btn": "Gå til dashboardet"
+                }
+            }
+        }
+    },
+
+    "report": {
+        "title": "Astatine - Rapporter bruger",
+        "reportUser": "Rapporter bruger",
+        "userId": "Bruger ID",
+        "evidence": "Bevis",
+        "tos": "Alle indsendte beviser og oplysninger er ægte og ikke redigeret på nogen måde.",
+        "sendReport": "Send rapport",
+        "reportSent": "Din rapport er sendt! Tak.",
+        "newReport": "Nyt rapport"
+    },
+
+    "reports": {
+        "title": "Astatine - Admin Dashboard",
+        "sentBy": "Rapport sendt af:",
+        "confirm": "Bekræft rapport",
+        "deny": "Afvist rapport",
+        "noReports": "Der er ikke nogle rapporter"
+    }
+}
