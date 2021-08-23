@@ -38,7 +38,8 @@
         "language": "Language",
         "languages": {
             "en": "English",
-            "da": "Danish"
+            "da": "Danish",
+            "no": "Norwegian"
         },
         "disableLogs": "Disable logs",
         "logChannel": "Log channel",
