@@ -1,0 +1,99 @@
+{
+	    "header": {
+	        "logout": "Logg ut",
+	        "dashboard": "Dashboard",
+	        "report": "Rapporter",
+	        "adminPanel": "Administrasjonspanel"
+	    },
+	
+
+	    "footer": {
+	        "currentlyUsing": "For tiden brukt av {users} brukere påse {guilds} Discord servere"
+	    },
+	
+
+	    "admin": {
+	        "title": "Astatine - Administrasjon Dashboard",
+	        "dailyStats": "Daglig statistikk",
+	        "reports": "Rapporter",
+	        "reportsWaiting": "Ventende rapporter"
+	    },
+	
+
+	    "dashboard": {
+	        "title": "Astatine - Dashboard",
+	        "manage": "Administrere",
+	        "addBot": "Tilsett Astatine"
+	    },
+	
+
+	    "error": {
+	        "title": "Astatine - Ikke funnet",
+	        "pageNotFound": "404 - Side ikke funnet",
+	        "url": "Den forespurte nettadressen {url} ble ikke funnet på denne serveren.",
+	        "homePage": "Hjemmeside"
+	    },
+	    
+	    "guild": {
+	        "title": "Astatine - {guildName}",
+	        "memberCount": "Medlemmer: {memberCount}",
+	        "settings": "Innstillinger",
+	        "blacklist": "Aktiver blacklist",
+	        "language": "Språk",
+	        "languages": {
+	            "en": "Engelsk",
+	            "da": "Dansk",
+		    "no": "Norsk"
+	        },
+	        "disableLogs": "Deaktiver logger",
+	        "logChannel": "Logg kanal",
+	        "save": "Lagre"
+	    },
+	
+
+	    "index": {
+	        "title": "Astatine",
+	        "getStarted": "Kom i gang",
+	        "main": {
+	            "title": "Et enkelt Discord globalt forbud",
+	            "desc": "Bruk Astatine for å holde uønskede Discord medlemmer utenfor. Dette inkluderer personer som sender token grabbers, ip grabbers og andre mennesker som gjør ting med ondsinnet hensikt."
+	        },
+	        "secondary": {
+	            "desc": "Du kan bruke botten gratis. Velg et alternativ nedenfor for å komme i gang..",
+	            "boxes": {
+	                "discord": {
+	                    "title": "Legg til i Discord",
+	                    "desc": "For at vi skal kunne forby uønskede medlemmer, krever det at du legger botten til på Discord serveren din. Trykk på knappen nedenfor for å legge til botten på Discord serveren!",
+	                    "btn": "Inviter bot"
+	                },
+	                "dashboard": {
+	                    "title": "åpent dashbord",
+	                    "desc": "Åpne dashbordet, og ta en titt. Du kan finne noe interessant.",
+	                    "btn": "Gå til Dashboard"
+	                }
+	            }
+	        }
+	    },
+	
+
+	    "report": {
+	        "title": "Astatine - Rapporter bruker",
+	        "reportUser": "Rapporter bruker",
+	        "userId": "Bruker id",
+	        "evidence": "Bevis",
+	        "tos": "Alt innsendt bevis og informasjon er korrekt og ikke redigert på noen måte.",
+	        "sendReport": "Send rapport",
+	        "reportSent": "Rapporten din er sendt! Takk.",
+	        "newReport": "Ny rapport"
+	    },
+	
+
+	    "reports": {
+	        "title": "Astatine - Administrasjon Dashboard",
+	        "sentBy": "Rapport sendt av:",
+	        "confirm": "Bekreft rapporten",
+	        "deny": "Avvis rapporten",
+	        "noReports": "Det er foreløpig ingen rapporter"
+	    }
+	}
+

@@ -7,7 +7,7 @@
     },
 
     "footer": {
-        "currentlyUsing": "Currently used by {users} users on {guilds} discord servers"
+        "currentlyUsing": "Currently used by {users} users on {guilds} Discord servers"
     },
 
     "admin": {
@@ -38,7 +38,8 @@
         "language": "Language",
         "languages": {
             "en": "English",
-            "da": "Danish"
+            "da": "Danish",
+            "no": "Norwegian"
         },
         "disableLogs": "Disable logs",
         "logChannel": "Log channel",
@@ -50,14 +51,14 @@
         "getStarted": "Get Started",
         "main": {
             "title": "A Simple Discord Global Ban",
-            "desc": "Use Astatine to keep out unwanted discord members. This include people sending token grabbers, ip grabbers and other people doing things with malicious intents."
+            "desc": "Use Astatine to keep out unwanted Discord members. This include people sending token grabbers, ip grabbers and other people doing things with malicious intents."
         },
         "secondary": {
             "desc": "You can use our service completely for free. Choose an option below to start.",
             "boxes": {
                 "discord": {
                     "title": "Add to Discord",
-                    "desc": "For us to be able to ban unwanted users, we need a discord bot on your server. Press the button below, to invite our discord bot, to your server!",
+                    "desc": "For us to be able to ban unwanted users, we need a Discord bot on your server. Press the button below, to invite our Discord bot, to your server!",
                     "btn": "Invite bot"
                 },
                 "dashboard": {
