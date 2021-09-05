@@ -1,0 +1,92 @@
+{
+    "header": {
+        "logout": "Ausloggen",
+        "dashboard": "Armaturenbrett",
+        "report": "Bericht",
+        "adminPanel": "Administrationsmenü"
+    },
+
+    "footer": {
+        "currentlyUsing": "Wird derzeit von {users} auf {guilds} Discord-Servern verwendet"
+    },
+
+    "admin": {
+        "title": "Astatine - Admin Dashboard",
+        "dailyStats": "Tägliche Statistiken",
+        "reports": "Berichte",
+        "reportsWaiting": "Ausstehende Berichte"
+    },
+
+    "dashboard": {
+        "title": "Astatine - Dashboard",
+        "manage": "Verwalten",
+        "addBot": "Hinzufügen Astatine"
+    },
+
+    "error": {
+        "title": "Astatine - Nicht gefunden",
+        "pageNotFound": "404 - Seite nicht gefunden",
+        "url": "Die angeforderte URL {url} wurde auf diesem Server nicht gefunden.",
+        "homePage": "Startseite"
+    },
+    
+    "guild": {
+        "title": "Astatine - {guildName}",
+        "memberCount": "Mitglieder: {memberCount}",
+        "settings": "Einstellungen",
+        "blacklist": "Schwarze Liste aktivieren",
+        "language": "Sprache",
+        "languages": {
+            "en": "Englisch",
+            "da": "Dänisch",
+            "no": "Norwegisch",
+            "de": "Deutsch"
+        },
+        "disableLogs": "Logs deaktivieren",
+        "logChannel": "Log kanal",
+        "save": "Auf-bewahren"
+    },
+
+    "index": {
+        "title": "Astatine",
+        "getStarted": "Loslegen",
+        "main": {
+            "title": "Ein einfaches globales Ban der Zwietracht",
+            "desc": "Verwenden Sie Astatine, um unerwünschte Discord-Mitglieder fernzuhalten. Dazu gehören Personen, die Token-Grabber, IP-Grabber und andere Personen senden, die Dinge mit böswilliger Absicht tun."
+        },
+        "secondary": {
+            "desc": "Sie können den Bot kostenlos nutzen. Wählen Sie unten eine Option aus, um zu beginnen.",
+            "boxes": {
+                "discord": {
+                    "title": "Zum Discord-Server hinzufügen",
+                    "desc": "Damit wir unerwünschte Mitglieder sperren können, müssen Sie die Unterseite zu Ihrem Discord-Server hinzufügen. Drücken Sie die Schaltfläche unten, um den Bot zu Ihrem Discord-Server hinzuzufügen.",
+                    "btn": "Bot einladen"
+                },
+                "dashboard": {
+                    "title": "Dashboard öffnen",
+                    "desc": "Öffnen Sie das Dashboard und werfen Sie einen Blick darauf. Vielleicht findest du etwas Interessantes",
+                    "btn": "Gehe zum Dashboard"
+                }
+            }
+        }
+    },
+
+    "report": {
+        "title": "Astatine - Benutzer melden",
+        "reportUser": "Benutzer melden",
+        "userId": "Benutzeridentifikation",
+        "evidence": "Beweis",
+        "tos": "Alle eingereichten Beweise und Informationen sind echt und in keiner Weise bearbeitet.",
+        "sendReport": "Bericht senden",
+        "reportSent": "Ihr Bericht wurde gesendet! Vielen Danke.",
+        "newReport": "Neuer Bericht"
+    },
+
+    "reports": {
+        "title": "Astatine - Admin Dashboard",
+        "sentBy": "Bericht gesendet von:",
+        "confirm": "Bericht bestätigen",
+        "deny": "Bericht ablehnen",
+        "noReports": "Es gibt keine Berichte"
+    }
+}
